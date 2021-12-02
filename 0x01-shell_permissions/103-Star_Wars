@@ -1,10 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-telnet towel.blinkenlights.nl
-=======
 towel towel.blinkenlights.nl
->>>>>>> 3e90c209fdfc57e5868769aa2f5b332d5cf32c96
-=======
-towel towel.blinkenlights.nl
->>>>>>> 3e90c209fdfc57e5868769aa2f5b332d5cf32c96
